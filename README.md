@@ -1,0 +1,3 @@
+# quarkus-debug-jackson-objectmapper
+
+example project for quarkus ObjectMapperCustomizer with Hibernate5Module.Feature.SERIALIZE_IDENTIFIER_FOR_LAZY_NOT_LOADED_OBJECTS
